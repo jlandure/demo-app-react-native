@@ -61,4 +61,6 @@ typings/
 .next
 .expo/packager-info.json
 .expo/settings.json
+.expo/web
+web-build
 package-lock.json
